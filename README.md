@@ -42,7 +42,7 @@ entities required for the bank database system. This file also inserts some samp
 One important package to install is PyMySQL. This package provides an interface for connecting to a MySQL database from Python3.
 Credentials to the database are accepted from the user. Please provide your username and password to connect to the database on your system.
  
-The second file ***Bank_DB_main.py*** provides the Menu to interact with the database and should be run after running the first file.
+The file ***Bank_DB_main.py*** provides the Menu to interact with the database and should be run after running the first file.
 
 Few important packages to install before running the second file are:
 * Random – Used to generate a random integer used for account numbers in the Account table
