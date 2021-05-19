@@ -49,4 +49,4 @@ Few important packages to install before running the second file are:
 * Tabulate – Used to print tabular data in nicely formatted tables
 * Datetime – Used for working with date and time in python
 
-The conceptual and logical diagrams are also included in the Project Report. 
+The conceptual and logical diagrams are also included in the Project Report. Do watch the *Project_Demo.mp4* video included above for more information!
